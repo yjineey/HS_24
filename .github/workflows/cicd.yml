@@ -1,0 +1,29 @@
+name: CI/CD Pipeline
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code # 체크아웃
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js # Node.js 설정
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install dependencies # 의존성 설치
+        run: npm install
+
+      - name: Build the project # 빌드 실행
+        run: npm run build
+
+      - name: Deploy to GitHub Pages # 배포 (GitHub Pages로 배포)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
