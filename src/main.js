@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Vue Argon Design System - v1.1.0
+* customizing yjineey Vue2 - v1.0.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-design-system
@@ -15,15 +15,15 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import Vue from "vue";
-import App from "./App.vue";
-import router from "./router";
-import Argon from "./plugins/argon-kit";
-import './registerServiceWorker'
+import Vue from 'vue';
+import App from './App.vue';
+import router from './router';
+import Argon from './plugins/argon-kit';
+import './registerServiceWorker';
 
 Vue.config.productionTip = false;
 Vue.use(Argon);
 new Vue({
   router,
-  render: h => h(App)
-}).$mount("#app");
+  render: (h) => h(App),
+}).$mount('#app');
