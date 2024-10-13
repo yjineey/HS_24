@@ -10,8 +10,6 @@ jobs:
     steps:
       - name: Checkout code # 체크아웃
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.MY_GITHUB_TOKEN }} # 커스텀 토큰 사용
 
       - name: Set up Node.js # Node.js 설정
         uses: actions/setup-node@v2
