@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0943b19cef82da9438c5e38d4b38fa2e.js"
+  "/precache-manifest.666479adfbbc512e182d1d8eb73918f2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "yjineey-vue2"});
