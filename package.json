@@ -1,8 +1,8 @@
 {
-  "name": "yjineey-vue2",
+  "name": "HS_24",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://yjineey.github.io/yjineey-vue2/",
+  "homepage": "https://yjineey.github.io/HS_24/",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
