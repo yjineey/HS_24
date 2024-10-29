@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yjineey-vue2/precache-manifest.992132759d1fb299a432685405106bbf.js"
+  "/HS_24/precache-manifest.d4045f19fd0378dcf35c193e82482ca4.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "yjineey-vue2"});
+workbox.core.setCacheNameDetails({prefix: "HS_24"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
