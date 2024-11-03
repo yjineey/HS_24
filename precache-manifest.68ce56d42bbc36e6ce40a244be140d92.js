@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e8d69830837209de242",
+    "revision": "98f63ba04c1fde98fad2",
     "url": "/HS_24/css/app.3ca45e04.css"
   },
   {
-    "revision": "4e8d69830837209de242",
-    "url": "/HS_24/js/app.7e415882.js"
+    "revision": "98f63ba04c1fde98fad2",
+    "url": "/HS_24/js/app.410a7b6d.js"
   },
   {
     "revision": "a78ed6e91116c51b480d",
@@ -24,6 +24,10 @@ self.__precacheManifest = [
     "url": "/HS_24/js/chunk-vendors.7ac125c6.js"
   },
   {
+    "revision": "ac89eaea26a7b1db171ea7a65d922964",
+    "url": "/HS_24/img/profilePicture1.ac89eaea.jpg"
+  },
+  {
     "revision": "4b8a4845e3c03b05cc92e2b3199889d5",
     "url": "/HS_24/img/github-color.4b8a4845.svg"
   },
@@ -32,20 +36,20 @@ self.__precacheManifest = [
     "url": "/HS_24/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/HS_24/fonts/nucleo-icons.2569aaea.woff"
-  },
-  {
-    "revision": "f82ec6ba2dc4181db2af35c499462840",
-    "url": "/HS_24/fonts/nucleo-icons.f82ec6ba.ttf"
-  },
-  {
     "revision": "c1733565b32b585676302d4233c39da8",
     "url": "/HS_24/fonts/nucleo-icons.c1733565.eot"
   },
   {
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/HS_24/fonts/nucleo-icons.2569aaea.woff"
+  },
+  {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "/HS_24/img/nucleo-icons.0b8a30b1.svg"
+  },
+  {
+    "revision": "f82ec6ba2dc4181db2af35c499462840",
+    "url": "/HS_24/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
     "revision": "b08a8caf60cc789199394946a140c737",
@@ -64,20 +68,20 @@ self.__precacheManifest = [
     "url": "/HS_24/fonts/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/HS_24/fonts/fontawesome-webfont.fee66e71.woff"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/HS_24/fonts/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/HS_24/fonts/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/HS_24/img/fontawesome-webfont.912ec66d.svg"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/HS_24/fonts/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/HS_24/fonts/fontawesome-webfont.674f50d2.eot"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/HS_24/img/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "889c4151482912e281c6c77fb0fefb91",
@@ -88,11 +92,7 @@ self.__precacheManifest = [
     "url": "/HS_24/img/javaScript-color.0c1f700d.svg"
   },
   {
-    "revision": "ac89eaea26a7b1db171ea7a65d922964",
-    "url": "/HS_24/img/profilePicture3.ac89eaea.jpg"
-  },
-  {
-    "revision": "ac92a55ee5e9b22c43e778d61a3d1052",
+    "revision": "e310e0d43bbd2ce4ea596c67c4486868",
     "url": "/HS_24/index.html"
   },
   {
@@ -121,23 +121,19 @@ self.__precacheManifest = [
   },
   {
     "revision": "ac89eaea26a7b1db171ea7a65d922964",
-    "url": "/HS_24/img/profilePicture3.jpg"
+    "url": "/HS_24/img/profilePicture1.jpg"
   },
   {
     "revision": "a6c0daa06a708473bcb141a78004db5e",
     "url": "/HS_24/aurora-main.jpg"
   },
   {
-    "revision": "b9949387c6179e2dc4c675134a7b7935",
-    "url": "/HS_24/favicon.png"
-  },
-  {
-    "revision": "185288d13ed8e9d745bd279ea34667bf",
-    "url": "/HS_24/img/brand/blue.png"
-  },
-  {
     "revision": "c85c75275c0a0a617f9e5accc2700908",
     "url": "/HS_24/img/brand/creativetim-white-slim.png"
+  },
+  {
+    "revision": "b9949387c6179e2dc4c675134a7b7935",
+    "url": "/HS_24/favicon.png"
   },
   {
     "revision": "b9949387c6179e2dc4c675134a7b7935",
@@ -148,12 +144,32 @@ self.__precacheManifest = [
     "url": "/HS_24/HS_24-main.jpg"
   },
   {
-    "revision": "6fafe4baca9d50d61a898c84ade7afa3",
-    "url": "/HS_24/img/brand/white.png"
+    "revision": "185288d13ed8e9d745bd279ea34667bf",
+    "url": "/HS_24/img/brand/blue.png"
   },
   {
     "revision": "8e55eab46b5fcfc4a7a0b27cb07c8888",
     "url": "/HS_24/img/brand/github-white-slim.png"
+  },
+  {
+    "revision": "0c56c6c82b731b187b497c6a2273b743",
+    "url": "/HS_24/img/brand/HS_24-main.jpg"
+  },
+  {
+    "revision": "6fafe4baca9d50d61a898c84ade7afa3",
+    "url": "/HS_24/img/brand/white.png"
+  },
+  {
+    "revision": "0fd5a50a0f8ab014920fd9c052b55c70",
+    "url": "/HS_24/img/hobby/mtClimbing5.PNG"
+  },
+  {
+    "revision": "36d54c1eddc4be38fd103b06932596b1",
+    "url": "/HS_24/img/hobby/mtClimbing6.PNG"
+  },
+  {
+    "revision": "150a5d3b139bf7609bf8ac5853148512",
+    "url": "/HS_24/img/hobby/riding1.PNG"
   },
   {
     "revision": "594b1ee1d95ada356eaad078e9217932",
@@ -172,16 +188,12 @@ self.__precacheManifest = [
     "url": "/HS_24/img/logo/vscode-color.svg"
   },
   {
+    "revision": "2a3d05fda96cd0e854ccf29709238ecc",
+    "url": "/HS_24/img/hobby/climbing6.PNG"
+  },
+  {
     "revision": "fd4a34d026fb9e0f4867188d47b11ba8",
     "url": "/HS_24/img/theme/img-1-1200x1000.jpg"
-  },
-  {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/HS_24/img/theme/img-2-1200x1000.jpg"
-  },
-  {
-    "revision": "6b07281e253836a2733be8f1189cb22b",
-    "url": "/HS_24/img/profilePicture2.jpg"
   },
   {
     "revision": "dc49ad52655e1d9d0552c026db3ef688",
@@ -192,6 +204,10 @@ self.__precacheManifest = [
     "url": "/HS_24/img/theme/profile.jpg"
   },
   {
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/HS_24/img/theme/img-2-1200x1000.jpg"
+  },
+  {
     "revision": "974088a1931e40895bac6db119c62448",
     "url": "/HS_24/img/theme/promo-1.png"
   },
@@ -200,19 +216,43 @@ self.__precacheManifest = [
     "url": "/HS_24/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
-    "url": "/HS_24/img/theme/team-3-800x800.jpg"
+    "revision": "6b07281e253836a2733be8f1189cb22b",
+    "url": "/HS_24/img/profilePicture2.jpg"
   },
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
     "url": "/HS_24/img/theme/team-4-800x800.jpg"
   },
   {
+    "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
+    "url": "/HS_24/img/theme/team-3-800x800.jpg"
+  },
+  {
+    "revision": "6aeeaa75c9bd7e4c2dd4d0e406e97be0",
+    "url": "/HS_24/img/hobby/climbing5.PNG"
+  },
+  {
+    "revision": "5b7a59f4b81e87f6dc9f095679cb876f",
+    "url": "/HS_24/img/hobby/climbing1.PNG"
+  },
+  {
+    "revision": "52e1486584ac43f746e3d3c804fc6552",
+    "url": "/HS_24/img/hobby/climbing2.PNG"
+  },
+  {
+    "revision": "326859f061fcde11368c40b42c7251f5",
+    "url": "/HS_24/img/hobby/mtClimbing1.PNG"
+  },
+  {
+    "revision": "3319cc64bd4a8fe4cd9355a67af40d86",
+    "url": "/HS_24/img/hobby/mtClimbing3.PNG"
+  },
+  {
     "revision": "be997d5226b992ffad34816870c6b7aa",
     "url": "/HS_24/img/theme/team-2-800x800.jpg"
   },
   {
-    "revision": "cc09d0278c49656c1f0905dad6be945e",
-    "url": "/HS_24/img/profilePicture1.jpg"
+    "revision": "2ce229d52082a612d84814a27b97f96e",
+    "url": "/HS_24/img/hobby/riding2.PNG"
   }
 ];
