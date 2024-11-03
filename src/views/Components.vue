@@ -1,7 +1,6 @@
 <template>
   <div>
-    <Profile></Profile>
-    <download-section></download-section>
+    <Profile />
   </div>
 </template>
 <script>
@@ -15,13 +14,12 @@ import JavascriptComponents from './components/JavascriptComponents';
 import Carousel from './components/Carousel';
 import Icons from './components/Icons';
 import Examples from './components/Examples';
-import DownloadSection from './components/DownloadSection';
+import Stack from './components/Stack';
 
 export default {
   name: 'components',
   components: {
     Profile,
-    DownloadSection,
   },
 };
 </script>

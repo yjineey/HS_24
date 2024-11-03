@@ -125,7 +125,7 @@
             |-- BasicElements.vue
             |-- Carousel.vue
             |-- CustomControls.vue
-            |-- DownloadSection.vue
+            |-- Stack.vue
             |-- Examples.vue
             |-- Hero.vue
             |-- Icons.vue

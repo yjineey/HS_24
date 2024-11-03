@@ -25,7 +25,7 @@
                 <div class="card-profile-image">
                   <a href="#">
                     <img
-                      src="../../public/img/profilePicture3.jpg"
+                      src="../../public/img/profilePicture1.jpg"
                       style="transform: translate(-50%, -36%)"
                       class="rounded-circle"
                     />
@@ -86,7 +86,7 @@
                 <i class="ni location_pin mr-2"></i>🐱‍🚀 Front Developer
               </div>
             </div>
-            <div class="mt-5 py-5 border-top text-center">
+            <div class="mt-5 py-5 border-top text-center" style="padding-top: ">
               <div class="row justify-content-center">
                 <div class="col-lg-9">
                   <p>
@@ -100,6 +100,9 @@
                 </div>
               </div>
             </div>
+            <div class="py-5 border-top text-center">
+              <Stack />
+            </div>
           </div>
         </card>
       </div>
@@ -107,6 +110,13 @@
   </div>
 </template>
 <script>
-export default {};
+import Stack from './components/Stack2';
+
+export default {
+  name: 'profile',
+  components: {
+    Stack,
+  },
+};
 </script>
 <style></style>
