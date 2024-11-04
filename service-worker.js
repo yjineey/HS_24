@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HS_24/precache-manifest.68ce56d42bbc36e6ce40a244be140d92.js"
+  "/HS_24/precache-manifest.8c7d91d8576eed4e3c825eefbffc09ac.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "HS_24"});
